@@ -11,8 +11,9 @@ app.listen(process.env.APP_PORT, () => {
 });
 
 //Aqui
+// Confirma alteração abrir conf, tira #, salva
 // git push
-// Vai abrir conf, tira #, salva e vai abrir auth e dar pau. Quando fechar ele faz
+// vai abrir auth e dar pau. Quando fechar ele faz
 
 // La
 // nom stop   ou     pm2 stop app
